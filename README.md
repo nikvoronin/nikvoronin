@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-📜️ Blog is here &rarr; https://nikvoronin.github.io/blog/
+📜️ Blog is here &rarr; https://nikvoronin.github.io/blog/<br/>
 ⭐️ Gists are there &rarr; https://gist.github.com/nikvoronin/
 
 Langs log<sub>2</sub>:<br/>
