@@ -7,8 +7,8 @@ You can find me on [Twitter](https://twitter.com/cutdabrain/) and [LinkedIn](htt
 
 ### Projects
 
-- Desktop: [The Last Wallpaper](https://github.com/nikvoronin/LastWallpaper) • [Metanull](https://github.com/nikvoronin/Metanull) • [Xm4Battery](https://github.com/nikvoronin/WmiPnp)
-- Graphics: [We Ain't Same](https://github.com/nikvoronin/we-aint-same) |> [F#](https://github.com/nikvoronin/we-aint-same-fsharp) • [Asceils](https://github.com/nikvoronin/Asceils) • [Seek Text Lines](https://github.com/nikvoronin/SeekTextLines) • [Cloo To OpenGL](https://github.com/nikvoronin/ClooToOpenGL) • [GL DE TK](https://github.com/nikvoronin/GLDETK) • [BuddhabrotCL](https://github.com/nikvoronin/BuddhabrotCL)
+- Desktop: [The Last Wallpaper](https://github.com/nikvoronin/LastWallpaper) • [Metanull](https://github.com/nikvoronin/Metanull) • [Xm4Battery](https://github.com/nikvoronin/WmiPnp) (WmiPnp)
+- Graphics: [We Ain't Same](https://github.com/nikvoronin/we-aint-same) • [Asceils](https://github.com/nikvoronin/Asceils) • [Seek Text Lines](https://github.com/nikvoronin/SeekTextLines) • [Cloo To OpenGL](https://github.com/nikvoronin/ClooToOpenGL) • [GL DE TK](https://github.com/nikvoronin/GLDETK) • [BuddhabrotCL](https://github.com/nikvoronin/BuddhabrotCL)
 - Industrial Automation: [DriveASC](https://github.com/nikvoronin/DriveAsc) • [DFConf](https://github.com/nikvoronin/DFConf) • [SharpF5](https://github.com/nikvoronin/SharpF5) • [AdsRemote](https://github.com/nikvoronin/AdsRemote) • [Tc2_Git](https://github.com/nikvoronin/Tc2_Git) • [Tc_LibcatXml](https://github.com/nikvoronin/Tc_LibcatXml) • [Tc3_PcSpeaker](https://github.com/nikvoronin/Tc3_PcSpeaker)
 - Participation: [Firewatch FOV changer](https://github.com/nikvoronin/firewatch-fov-changer) • [VSCode-ST](https://github.com/nikvoronin/vscode-st) • [Toptout CLI](https://github.com/nikvoronin/toptout-cli) • [Beckhoff ADS Client](https://github.com/nikvoronin/adsclient)
 - GameDev: [XInput.Wrapper](https://github.com/nikvoronin/XInput.Wrapper) • [Sokoban](https://github.com/nikvoronin/Sokoban)
