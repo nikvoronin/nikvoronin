@@ -3,7 +3,7 @@
 📜️ Blog is here &rarr; https://nikvoronin.github.io/blog/<br/>
 ⭐️ Gists are there &rarr; https://gist.github.com/nikvoronin/
 
-You can find me on [Twitter](https://twitter.com/cutdabrain/) and [LinkedIn](https://www.linkedin.com/in/nikolai-voronin/). Abandoned blog about TwinCAT, Beckhoff, etc. still there &rarr; [Go TwinCAT](https://gotwincat.blogspot.com/).
+You can find me on [Mastodon](https://mastodon.social/@nvoronin) and [LinkedIn](https://www.linkedin.com/in/nikolai-voronin/). Abandoned blog about TwinCAT, Beckhoff, etc. still there &rarr; [Go TwinCAT](https://gotwincat.blogspot.com/).
 
 ### Projects
 
@@ -13,7 +13,7 @@ You can find me on [Twitter](https://twitter.com/cutdabrain/) and [LinkedIn](htt
 - Participation: [Firewatch FOV changer](https://github.com/nikvoronin/firewatch-fov-changer) • [VSCode-ST](https://github.com/nikvoronin/vscode-st) • [Toptout CLI](https://github.com/nikvoronin/toptout-cli) • [Beckhoff ADS Client](https://github.com/nikvoronin/adsclient)
 - GameDev: [XInput.Wrapper](https://github.com/nikvoronin/XInput.Wrapper) • [Sokoban](https://github.com/nikvoronin/Sokoban)
 
-### Conferences &amp; Meet-ups
+### Talks
 
 - [TechTalks #16 (Vladimir)](https://github.com/nikvoronin/techtalks-16-vladimir). All About 3D Graphics by 25 minutes.
 
