@@ -1,9 +1,8 @@
-## Hey there
+## Hi!
 
-📜️ Blog is here &rarr; https://nikvoronin.github.io/blog/<br/>
-⭐️ Gists are there &rarr; https://gist.github.com/nikvoronin/
-
-You can find me on [Mastodon](https://mastodon.social/@nvoronin) and [LinkedIn](https://www.linkedin.com/in/nikolai-voronin/). Abandoned blog about TwinCAT, Beckhoff, etc. still there &rarr; [Go TwinCAT](https://gotwincat.blogspot.com/).
+- Gists are there &rarr; https://gist.github.com/nikvoronin/.
+- Abandoned blog about TwinCAT, Beckhoff, etc. still there &rarr; [Go TwinCAT](https://gotwincat.blogspot.com/).
+- You can find me on [Mastodon](https://mastodon.social/@nvoronin) and [LinkedIn](https://www.linkedin.com/in/nikolai-voronin/). 
 
 ### Projects
 
