@@ -8,7 +8,7 @@ Those are pet projects or tech demos.
 
 ### Projects
 
-- Desktop: [The Last Wallpaper](https://github.com/nikvoronin/LastWallpaper) • [WinFormFs](https://github.com/nikvoronin/WinFormFs) • [Metanull](https://github.com/nikvoronin/Metanull)
+- Desktop: [Generic Browser](https://github.com/nikvoronin/GenericBrowser) • [The Last Wallpaper](https://github.com/nikvoronin/LastWallpaper) • [WinFormFs](https://github.com/nikvoronin/WinFormFs) • [Metanull](https://github.com/nikvoronin/Metanull)
 - Image Processing &amp; Graphics: [We Ain't Same](https://github.com/nikvoronin/we-aint-same) • [Asceils](https://github.com/nikvoronin/Asceils) • [Seek Text Lines](https://github.com/nikvoronin/SeekTextLines) • [Cloo To OpenGL](https://github.com/nikvoronin/ClooToOpenGL) • [GL DE TK](https://github.com/nikvoronin/GLDETK) • [BuddhabrotCL](https://github.com/nikvoronin/BuddhabrotCL)
 - Industrial Automation: [DriveASC](https://github.com/nikvoronin/DriveAsc) • [DFConf](https://github.com/nikvoronin/DFConf) • [SharpF5](https://github.com/nikvoronin/SharpF5) • [AdsRemote](https://github.com/nikvoronin/AdsRemote) • [Tc2_Git](https://github.com/nikvoronin/Tc2_Git) • [Tc_LibcatXml](https://github.com/nikvoronin/Tc_LibcatXml) • [Tc3_PcSpeaker](https://github.com/nikvoronin/Tc3_PcSpeaker)
 - Hardware: [Xm4Battery](https://github.com/nikvoronin/WmiPnp) (WmiPnp) • [Schtrix](https://github.com/nikvoronin/Schtrix) • [XInput.Wrapper](https://github.com/nikvoronin/XInput.Wrapper) • [All Performance Counters](https://github.com/nikvoronin/AllPerformanceCounters) • [Howdy Mr. Printer](https://github.com/nikvoronin/howdy-mr-printer) • [Usb Webmail Notifier](https://gist.github.com/nikvoronin/389e4d27067f9542e1d43c9a384c15c9)
