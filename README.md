@@ -14,6 +14,7 @@ Those are pet projects or tech demos.
 - Hardware: [Xm4Battery](https://github.com/nikvoronin/WmiPnp) (WmiPnp) • [Schtrix](https://github.com/nikvoronin/Schtrix) • [XInput.Wrapper](https://github.com/nikvoronin/XInput.Wrapper) • [All Performance Counters](https://github.com/nikvoronin/AllPerformanceCounters) • [Howdy Mr. Printer](https://github.com/nikvoronin/howdy-mr-printer) • [Usb Webmail Notifier](https://gist.github.com/nikvoronin/389e4d27067f9542e1d43c9a384c15c9)
 - Participation: [Firewatch FOV changer](https://github.com/nikvoronin/firewatch-fov-changer) • [VSCode-ST](https://github.com/nikvoronin/vscode-st) • [Toptout CLI](https://github.com/nikvoronin/toptout-cli) • [Beckhoff ADS Client](https://github.com/nikvoronin/adsclient)
 - Game Development: [Sokoban](https://github.com/nikvoronin/Sokoban)
+- Parsers: [Json.TimeInterval](https://github.com/nikvoronin/Json.TimeInterval)
 
 ### Talks
 
