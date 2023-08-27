@@ -26,4 +26,4 @@ Those are pet projects or tech demos.
 - IEC 61131-3: LD, FBD, CFC, ST + Ada + Fortran •
 - Java (SE/EE/ME) • **C#** (.NET ≥ 2.0) • IL • Lisp (Common) •
 - Perl • SQL • JavaScript • PHP •
-- BASIC (Vilnius, ZX, Laser, -11, Quick) • Assembler (x86/amd64, Z80, arm) • C/С++ • Pascal • Object Pascal (Delphi) •
+- BASIC (Vilnius, ZX, -11, Quick) • Assembler (Z80, MACRO-11, x86/amd64, arm) • C/С++ • Pascal • Object Pascal (Delphi) •
