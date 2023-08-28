@@ -4,7 +4,7 @@ Those are pet projects or tech demos.
 
 - Gists are there &rarr; https://gist.github.com/nikvoronin/.
 - Abandoned blog about TwinCAT, Beckhoff, etc. still there &rarr; [Go TwinCAT](https://gotwincat.blogspot.com/).
-- You can find me on [Mastodon](https://mastodon.social/@nvoronin) and [LinkedIn](https://www.linkedin.com/in/nikolai-voronin/). 
+- You can find me on ~~Twitter and~~ [LinkedIn](https://www.linkedin.com/in/nikolai-voronin/). 
 
 ### Projects
 
@@ -24,6 +24,6 @@ Those are pet projects or tech demos.
 
 - Python • F# ...
 - IEC 61131-3: LD, FBD, CFC, ST + Ada + Fortran •
-- Java (SE/EE/ME) • **C#** (.NET ≥ 2.0) • IL • Lisp (Common) •
+- Java (SE/EE/ME) • `C# (.NET ≥ 2.0)` • IL • Lisp (Common) •
 - Perl • SQL • JavaScript • PHP •
 - BASIC (Vilnius, ZX, -11, Quick) • Assembler (Z80, MACRO-11, x86/amd64, arm) • C/С++ • Pascal • Object Pascal (Delphi) •
