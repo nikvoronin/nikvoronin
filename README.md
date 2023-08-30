@@ -4,7 +4,7 @@ Those are pet projects or tech demos.
 
 - Gists are there &rarr; https://gist.github.com/nikvoronin/.
 - Abandoned blog about TwinCAT, Beckhoff, etc. still there &rarr; [Go TwinCAT](https://gotwincat.blogspot.com/).
-- You can find me on ~~Twitter and~~ [LinkedIn](https://www.linkedin.com/in/nikolai-voronin/). 
+- You can find me on ✖[Twitter](https://twitter.com/n1kvoronin) and 🔗[LinkedIn](https://www.linkedin.com/in/nikolai-voronin/). 
 
 ### Projects
 
