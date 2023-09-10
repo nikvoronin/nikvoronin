@@ -18,8 +18,8 @@ Those are pet projects or tech demos.
 
 ### Talks
 
-- [How To Grow A Hybrid Application](https://github.com/nikvoronin/howto-grow-hybrid-app). TechTalks #19 (Vladimir).
-- [All About 3D Graphics by 25 minutes](https://github.com/nikvoronin/all-about-3d-by-25minutes). TechTalks #16 (Vladimir).
+- [How to grow a hybrid application](https://github.com/nikvoronin/howto-grow-hybrid-app). TechTalks #19 (Vladimir).
+- [All about 3D graphics by 25 minutes](https://github.com/nikvoronin/all-about-3d-by-25minutes). TechTalks #16 (Vladimir).
 
 ### Langs Timeline
 
