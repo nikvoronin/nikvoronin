@@ -14,7 +14,6 @@ Those are pet projects or tech demos.
 - **Industrial Automation:** [DriveASC](https://github.com/nikvoronin/DriveAsc) • [DFConf](https://github.com/nikvoronin/DFConf) • [SharpF5](https://github.com/nikvoronin/SharpF5) • [AdsRemote](https://github.com/nikvoronin/AdsRemote) • [Tc2_Git](https://github.com/nikvoronin/Tc2_Git) • [Tc_LibcatXml](https://github.com/nikvoronin/Tc_LibcatXml) • [Tc3_PcSpeaker](https://github.com/nikvoronin/Tc3_PcSpeaker)
 - **Hardware:** [Co2.Monitor](https://github.com/nikvoronin/Co2.Monitor) • [Xm4Battery](https://github.com/nikvoronin/WmiPnp) (WmiPnp) • [Schtrix](https://github.com/nikvoronin/Schtrix) • [XInput.Wrapper](https://github.com/nikvoronin/XInput.Wrapper) • [Howdy Mr. Printer](https://github.com/nikvoronin/howdy-mr-printer) • [Beckhoff ADS Client](https://github.com/nikvoronin/adsclient)
 - **GameDev:** [Sokoban](https://github.com/nikvoronin/Sokoban)
-- **Parsers &amp; Generators:** [Ngrams For Alice](https://github.com/nikvoronin/Ngrams4Alice) • [Json.TimeInterval](https://github.com/nikvoronin/Json.TimeInterval)
 
 ### Talks
 
