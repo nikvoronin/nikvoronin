@@ -17,6 +17,7 @@ Those are pet projects or tech demos.
 
 ### Talks
 
+- [Heavy industry and .NET](https://github.com/nikvoronin/heavy-industry-and-dotnet). TechTalks #27 (Vladimir).
 - [How to grow a hybrid application](https://github.com/nikvoronin/howto-grow-hybrid-app). TechTalks #19 (Vladimir).
 - [All about 3D graphics by 25 minutes](https://github.com/nikvoronin/all-about-3d-by-25minutes). TechTalks #16 (Vladimir).
 
