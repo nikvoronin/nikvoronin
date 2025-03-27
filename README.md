@@ -23,8 +23,10 @@ Those are pet projects or tech demos.
 
 ### Langs Timeline
 
-- Python • F# ...
-- IEC 61131-3: LD, FBD, CFC, ST + Ada + Fortran •
-- Java (SE/EE/ME) • `C# (.NET ≥ 2.0)` • IL • Lisp (Common) •
+- ?
+- Python • F# •
+- IEC 61131-3: LD, FBD, CFC, ST • Ada • Fortran •
+- Java (SE/EE/ME) • `C# (.NET ≥ 2.0)` • Lisp (Common) •
 - Perl • SQL • JavaScript • PHP •
-- BASIC (Vilnius, ZX, -11, Quick) • Assembler (Z80, MACRO-11, x86/amd64, arm) • C/С++ • Pascal • Object Pascal (Delphi) •
+- C/С++ • Pascal • Object Pascal (Delphi) •
+- BASIC (Vilnius, ZX, -11, Quick) • Assembler (Z80, MACRO-11, x86/amd64, arm) •
