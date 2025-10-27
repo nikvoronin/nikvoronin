@@ -13,7 +13,7 @@ Those are pet projects or tech demos.
 - **GPGPU:** [Cloo-to-OpenGL](https://github.com/nikvoronin/ClooToOpenGL) • [GL-DE-TK](https://github.com/nikvoronin/GLDETK) • [BuddhabrotCL](https://github.com/nikvoronin/BuddhabrotCL)
 - **Industrial Automation:** [DriveASC](https://github.com/nikvoronin/DriveAsc) • [DFConf](https://github.com/nikvoronin/DFConf) • [SharpF5](https://github.com/nikvoronin/SharpF5) • [AdsRemote](https://github.com/nikvoronin/AdsRemote) • [Tc2_Git](https://github.com/nikvoronin/Tc2_Git) • [Tc_LibcatXml](https://github.com/nikvoronin/Tc_LibcatXml) • [Tc3_PcSpeaker](https://github.com/nikvoronin/Tc3_PcSpeaker)
 - **Hardware:** [Co2.Monitor](https://github.com/nikvoronin/Co2.Monitor) • [Xm4Battery](https://github.com/nikvoronin/Xm4Battery) (ex [WmiPnp](https://github.com/nikvoronin/WmiPnp)) • [Schtrix](https://github.com/nikvoronin/Schtrix) • [XInput.Wrapper](https://github.com/nikvoronin/XInput.Wrapper) • [Howdy Mr. Printer](https://github.com/nikvoronin/howdy-mr-printer) • [Beckhoff ADS Client](https://github.com/nikvoronin/adsclient)
-- **GameDev:** [FunSokoban](https://github.com/nikvoronin/FunSokoban) • [Sokoban](https://github.com/nikvoronin/Sokoban)
+- **GameDev:** [FineSweeper](https://github.com/nikvoronin/FineSweeper) • [FunSokoban](https://github.com/nikvoronin/FunSokoban) • [Sokoban](https://github.com/nikvoronin/Sokoban)
 
 ### Talks
 
