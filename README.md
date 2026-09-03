@@ -14,7 +14,7 @@ Those are pet projects or tech demos.
 - **Hardware:** [Co2.Monitor](https://github.com/nikvoronin/Co2.Monitor) • [Xm4Battery](https://github.com/nikvoronin/Xm4Battery) (ex [WmiPnp](https://github.com/nikvoronin/WmiPnp)) • [Schtrix](https://github.com/nikvoronin/Schtrix) • [XInput.Wrapper](https://github.com/nikvoronin/XInput.Wrapper) • [Howdy Mr. Printer](https://github.com/nikvoronin/howdy-mr-printer) • [Beckhoff ADS Client](https://github.com/nikvoronin/adsclient)
 - **GameDev:** [FineSweeper](https://github.com/nikvoronin/FineSweeper) • [FunSokoban](https://github.com/nikvoronin/FunSokoban) • [Sokoban](https://github.com/nikvoronin/Sokoban)
 - **Docs:** [Awesome Time Paradox Movies](https://github.com/nikvoronin/awesome-time-paradox-movies) • [Timers Are Not What They Seem](https://github.com/nikvoronin/timers-are-not-what-they-seem)
-- **ML:** [Ngrams4Alice](https://github.com/nikvoronin/Ngrams4Alice)
+- **ML:** [lingpack](https://github.com/nikvoronin/lingpack) • [Ngrams4Alice](https://github.com/nikvoronin/Ngrams4Alice)
 
 ### Talks
 
