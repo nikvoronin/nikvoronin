@@ -18,10 +18,11 @@ Those are pet projects or tech demos.
 
 ### Talks
 
-- [.NET Framework](https://github.com/nikvoronin/dotnet-framework-talks). UnderMeetup #1 (Vladimir).
-- [Heavy industry and .NET](https://github.com/nikvoronin/heavy-industry-and-dotnet). TechTalks #27 (Vladimir).
-- [How to grow a hybrid application](https://github.com/nikvoronin/howto-grow-hybrid-app). TechTalks #19 (Vladimir).
-- [All about 3D graphics by 25 minutes](https://github.com/nikvoronin/all-about-3d-by-25minutes). TechTalks #16 (Vladimir).
+- [Async code you can actually read](https://github.com/nikvoronin/async-code-you-can-actually-read). TechTalks #37 (Vladimir)
+- [.NET Framework](https://github.com/nikvoronin/dotnet-framework-talks). UnderMeetup #1 (Vladimir)
+- [Heavy industry and .NET](https://github.com/nikvoronin/heavy-industry-and-dotnet). TechTalks #27 (Vladimir)
+- [How to grow a hybrid application](https://github.com/nikvoronin/howto-grow-hybrid-app). TechTalks #19 (Vladimir)
+- [All about 3D graphics by 25 minutes](https://github.com/nikvoronin/all-about-3d-by-25minutes). TechTalks #16 (Vladimir)
 
 ### Langs Timeline
 
